@@ -5,3 +5,4 @@ document.querySelectorAll('nav ul li a').forEach(anchor => {
         window.open(target, '_blank');
     });
 });
+
